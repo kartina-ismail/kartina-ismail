@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartina-ismail
-- 👀 I’m interested in coding, IoT, ai and machine learning
+- 👀 I’m interested in coding, IoT, AI and machine learning
 - 🌱 I’m currently learning Javascript 
 
 <!---
